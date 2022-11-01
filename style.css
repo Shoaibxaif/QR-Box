@@ -17,7 +17,7 @@ body{
 .wrapper{
     height: 260px;
     background: #fff;
-    max-width: 410px;
+    max-width: 300px;
     border-radius: 7px;
     padding: 16px 25px;
     transition: height 0.2 ease;
@@ -28,13 +28,13 @@ body{
     height: 530px;
 }
 
-header h1{
-    font-size: 21px;
-    font-weight: 500;
+header h1 {
+	font-size: 30px;
+	font-weight: 900;
 }
 
 header p{
-    font-size: 16px;
+    font-size: 11px;
     margin-top:5px ;
     color: #474747;
 }
